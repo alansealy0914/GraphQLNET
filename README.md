@@ -8,6 +8,10 @@ Part of this [blog post](https://dev.to/berviantoleo/getting-started-graphql-in-
 Backend Code
 https://github.com/bervProject/GraphQLNETExample.git
 
+References: Getting started with GraphQL in .NET 6 - Part 3 (Consume with ApolloClient React) - DEV Community
+
+
+
 
 ## LICENSE
 
